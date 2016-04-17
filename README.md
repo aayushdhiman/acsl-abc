@@ -1,4 +1,4 @@
-# easy as abc
+# easy-as-abc
 Solves the game Easy as ABC.
 The input is the board as it is set up.
 For example, the input 3,1,A,6,C,8,B is valid.
